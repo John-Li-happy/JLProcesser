@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F231489225D35FCC00A39371 /* JLProcesser.h in Headers */ = {isa = PBXBuildFile; fileRef = F231489025D35FCC00A39371 /* JLProcesser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F231489A25D35FE300A39371 /* JLProcesserString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F231489925D35FE300A39371 /* JLProcesserString.swift */; };
+		F2876AE625D39DCC00762173 /* JLProcesserImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2876AE525D39DCC00762173 /* JLProcesserImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		F231489025D35FCC00A39371 /* JLProcesser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLProcesser.h; sourceTree = "<group>"; };
 		F231489125D35FCC00A39371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F231489925D35FE300A39371 /* JLProcesserString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JLProcesserString.swift; sourceTree = "<group>"; };
+		F2876AE525D39DCC00762173 /* JLProcesserImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JLProcesserImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 				F231489025D35FCC00A39371 /* JLProcesser.h */,
 				F231489125D35FCC00A39371 /* Info.plist */,
 				F231489925D35FE300A39371 /* JLProcesserString.swift */,
+				F2876AE525D39DCC00762173 /* JLProcesserImage.swift */,
 			);
 			path = JLProcesser;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2876AE625D39DCC00762173 /* JLProcesserImage.swift in Sources */,
 				F231489A25D35FE300A39371 /* JLProcesserString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
