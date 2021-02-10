@@ -1,0 +1,6 @@
+framework module JLProcesser {
+  umbrella header "JLProcesser-umbrella.h"
+
+  export *
+  module * { export * }
+}

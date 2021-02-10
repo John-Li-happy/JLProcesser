@@ -1,0 +1,16 @@
+PODS:
+  - JLProcesser (1.0.0)
+
+DEPENDENCIES:
+  - JLProcesser (from `../JLProcesser/`)
+
+EXTERNAL SOURCES:
+  JLProcesser:
+    :path: "../JLProcesser/"
+
+SPEC CHECKSUMS:
+  JLProcesser: 0750ab6532c359c06977c67e7ca667dee0bf7d13
+
+PODFILE CHECKSUM: 67001a4f81c101dc5a92a03fee4800b2d78c1514
+
+COCOAPODS: 1.9.3
