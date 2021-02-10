@@ -14,4 +14,3 @@ public class JLProcesserString {
         return "this project has been init correctly"
     }
 }
-
